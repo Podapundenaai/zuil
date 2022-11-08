@@ -1,8 +1,6 @@
 
-#**Titel van het project: Zuil 2 Test**
+#**Titel van het project: Zuil **
 
-##**Projectbeschrijving: (Test voor projecten)**
+##**Projectbeschrijving: BerichtenView **
 
-###**Projectleden: Harisan Nades**
-
-####**Oefening Zuil 2**
+###**Gemaakt door: Harisan Nades**
