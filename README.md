@@ -1,8 +1,8 @@
 
 #**Titel van het project: Zuil 2 Test**
 
-#**Projectbeschrijving: (Test voor projecten)**
+##**Projectbeschrijving: (Test voor projecten)**
 
-#**Projectleden: Harisan Nades**
+###**Projectleden: Harisan Nades**
 
-#**Oefening Zuil 2**
+####**Oefening Zuil 2**
